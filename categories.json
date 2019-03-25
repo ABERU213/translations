@@ -27,8 +27,9 @@
 				"it":"Nuovo",
 				"es":"Nuevo",
 				"ru":"Новый",
-				"zh":"新的"
-				"fr":"Nouveau"
+				"zh":"新的",
+				"fr":"Nouveau",
+				"ja":"新しい"
 			}
 		},
 		"2":{
@@ -67,7 +68,8 @@
 				"fr":"Terrestre",
 				"es":"Terrestre",
 				"ru":"Сухопутный",
-				"zh":"陆生"
+				"zh":"陆生",
+				"ja":"陸生"
 			},
 			"p":3
 		},
@@ -79,7 +81,8 @@
 				"fr":"Aérien",
 				"es":"Aéreo",
 				"ru":"Воздушный",
-				"zh":"飞行"
+				"zh":"飞行",
+				"ja":"飛行"
 			},
 			"p":3
 		},
@@ -91,7 +94,8 @@
 				"fr":"Aquatique",
 				"es":"Acuático",
 				"ru":"Водный",
-				"zh":"水生"
+				"zh":"水生",
+				"ja":"水生"
 			},
 			"p":3
 		},
@@ -103,7 +107,8 @@
 				"fr":"Chevauchable",
 				"es":"Manejable",
 				"ru":"Ездовой",
-				"zh":"可骑乘"
+				"zh":"可骑乘",
+				"ja":"騎乗可能"
 			},
 			"p":4
 		},
@@ -115,7 +120,8 @@
 				"fr":"Selle utilisable",
 				"es":"Montura utilitaria",
 				"ru":"Обычное седло",
-				"zh":"工具鞍"
+				"zh":"工具鞍",
+				"ja":"作業台サドル"
 			},
 			"p":4
 		},
@@ -127,7 +133,8 @@
 				"fr":"Selle avec plateforme",
 				"es":"Montura plataforma",
 				"ru":"Седло-платформа",
-				"zh":"平台鞍"
+				"zh":"平台鞍",
+				"ja":"プラットフォームサドル"
 			},
 			"p":4
 		},
@@ -139,7 +146,8 @@
 				"fr":"Multi passager",
 				"es":"Multi pasajero",
 				"ru":"Многоместный",
-				"zh":"多座位"
+				"zh":"多座位",
+				"ja":"複数人搭乗可能"
 			},
 			"p":4
 		},
@@ -151,7 +159,8 @@
 				"fr":"Selle Tek",
 				"es":"Montura Tek",
 				"ru":"Тек-седло",
-				"zh":"泰克鞍"
+				"zh":"泰克鞍",
+				"ja":"TEKサドル"
 			},
 			"p":4
 		},
@@ -163,7 +172,8 @@
 				"fr":"Monte sur l'épaule",
 				"es":"Monta a hombros",
 				"ru":"Плечевой упор",
-				"zh":"可拾起"
+				"zh":"可拾起",
+				"ja":"肩乗せ"
       },
 			"p":4
 		},
@@ -175,7 +185,8 @@
 				"fr":"Apprivoisable",
 				"es":"Domesticable",
 				"ru":"Приручаемый",
-				"zh":"可驯服"
+				"zh":"可驯服",
+				"ja":"テイム可能"
 			},
 			"p":5
 		},
@@ -187,7 +198,8 @@
 				"fr":"Non apprivoisable",
 				"es":"No domesticable",
 				"ru":"Не приручаемый",
-				"zh":"不可驯服"
+				"zh":"不可驯服",
+				"ja":"テイム不可"
 			},
 			"p":5
 		},
@@ -199,7 +211,8 @@
 				"fr":"Apprivoisement par assommement",
 				"es":"Doma inconsciente",
 				"ru":"Приручение оглушением",
-				"zh":"麻醉驯服"
+				"zh":"麻醉驯服",
+				"ja":"気絶テイム"
 			},
 			"p":5
 		},
@@ -211,7 +224,8 @@
 				"fr":"Apprivoisement passif",
 				"es":"Doma pasiva",
 				"ru":"Пассивное приручение",
-				"zh":"和平驯服"
+				"zh":"和平驯服",
+				"ja":"受動テイム"
 			},
 			"p":5
 		},
@@ -223,7 +237,8 @@
 				"fr":"Apprivoisement facile et rapide",
 				"es":"Doma rápida y fácil",
 				"ru":"Быстрое и лёгкое приручение",
-				"zh":"快速/简易驯服"
+				"zh":"快速/简易驯服",
+				"ja":"速くて簡単なテイム"
 			},
 			"p":5
 		},
@@ -234,7 +249,8 @@
 				"it":"Carnivori",
 				"es":"Carnívoros",
 				"ru":"Плотоядные",
-				"zh":"肉食性"
+				"zh":"肉食性",
+				"ja":"肉食"
 			},
 			"p":6
 		},
@@ -245,7 +261,8 @@
 				"it":"Erbivori",
 				"es":"Herbívoros",
 				"ru":"Травоядные",
-				"zh":"草食性"
+				"zh":"草食性",
+				"ja":"草食"
 			},
 			"p":6
 		},
@@ -256,7 +273,8 @@
 				"it":"Onnivori",
 				"es":"Omnívoros",
 				"ru":"Всеядные",
-				"zh":"杂食性"
+				"zh":"杂食性",
+				"ja":"雑食"
 			},
 			"p":6
 		},
@@ -267,7 +285,8 @@
 				"it":"Piscivori",
 				"es":"Piscívoros",
 				"ru":"Ихтиофаги",
-				"zh":"鱼食性"
+				"zh":"鱼食性",
+				"ja":"魚食"
 			},
 			"p":6
 		},
@@ -279,7 +298,8 @@
 				"fr":"Créatures de combat",
 				"es":"Criaturas de combate",
 				"ru":"Боевые существа",
-				"zh":"战斗用"
+				"zh":"战斗用",
+				"ja":"戦闘向き"
 			},
 			"p":7
 		},
@@ -291,7 +311,8 @@
 				"fr":"Cueilleurs",
 				"es":"Recolectores",
 				"ru":"Собиратели",
-				"zh":"资源采集"
+				"zh":"资源采集",
+				"ja":"資源採取向き"
 			},
 			"p":7
 		},
@@ -303,7 +324,8 @@
 				"fr":"Transporteur",
 				"es":"Mulas de carga",
 				"ru":"Транспортировщики",
-				"zh":"高负重"
+				"zh":"高负重",
+				"ja":"運搬向き"
 			},
 			"p":7
 		},
@@ -315,7 +337,8 @@
 				"fr":"Créatures rapide",
 				"es":"Criaturas rápidas",
 				"ru":"Быстрые существа",
-				"zh":"高机动性"
+				"zh":"高机动性",
+				"ja":"高機動力"
 			},
 			"p":7
 		},
@@ -327,7 +350,8 @@
 				"fr":"Reproductible",
 				"es":"Reproducible",
 				"ru":"Разводимые существа",
-				"zh":"可繁殖"
+				"zh":"可繁殖",
+				"ja":"繁殖可能"
 			},
 			"p":8
 		},
@@ -339,7 +363,8 @@
 				"fr":"Début de partie",
 				"es":"Inicio de partida",
 				"ru":"Ранняя стадия игры",
-				"zh":"早期"
+				"zh":"早期",
+				"ja":"早期ゲーム"
 			},
 			"p":8
 		},
@@ -351,7 +376,8 @@
 				"fr":"Milieu de partie",
 				"es":"Mitad de partida",
 				"ru":"Средняя стадия игры",
-				"zh":"中期"
+				"zh":"中期",
+				"ja":"中期ゲーム"
 			},
 			"p":8
 		},
@@ -363,7 +389,8 @@
 				"fr":"Fin de partie",
 				"es":"Final de partida",
 				"ru":"Конечная стадия игры",
-				"zh":"后期"
+				"zh":"后期",
+				"ja":"後期ゲーム"
 			},
 			"p":8
 		},
@@ -374,7 +401,8 @@
 				"it":"Boss",
 				"es":"Jefes",
 				"ru":"Боссы",
-				"zh":"BOSS"
+				"zh":"BOSS",
+				"ja":"BOSS"
 			},
 			"p":8
 		},
@@ -393,7 +421,8 @@
 				"fr":"Carte",
 				"es":"Mapa",
 				"ru":"Карта",
-				"zh":"地图"
+				"zh":"地图",
+				"ja":"地図"
 			}
 		},
 		"2":{
@@ -404,7 +433,8 @@
 				"fr":"Contenu additionnel exclusif",
 				"es":"Paquete de expansión exclusivo",
 				"ru":"Эксклюзивный пакет расширения",
-				"zh":"扩展资料片限定"
+				"zh":"扩展资料片限定",
+				"ja":"拡張パック限定"
 			}
 		},
 		"3":{
@@ -413,7 +443,8 @@
 				"de":"Lebensraum",
 				"es":"Hábitat",
 				"ru":"Среда обитания",
-				"zh":"栖息地"
+				"zh":"栖息地",
+				"ja":"生息地"
 			}
 		},
 		"4":{
@@ -423,7 +454,8 @@
 				"it":"Guidabilità",
 				"es":"Manejo",
 				"ru":"Управляемость",
-				"zh":"骑乘性"
+				"zh":"骑乘性",
+				"ja":"騎乗性"
 			}
 		},
 		"5":{
@@ -443,7 +475,8 @@
 				"ru":"Приручение",
 				"ro":"Îmblânzire",
 				"th":"การจับ",
-				"tr":"Evcilleştirme"
+				"tr":"Evcilleştirme",
+				"ja":"テイム"
 			}
 		},
 		"6":{
@@ -454,7 +487,8 @@
 				"fr":"Régime alimentaire",
 				"es":"Dieta",
 				"ru":"Рацион",
-				"zh":"饮食"
+				"zh":"饮食",
+				"ja":"食事"
 			}
 		},
 		"7":{
@@ -474,7 +508,8 @@
 				"ru":"Полезность",
 				"ro":"Utilitate",
 				"th":"สิ่งที่มีประโยชน์",
-				"tr":"Faydaları"
+				"tr":"Faydaları",
+				"ja":"実用性"
 			}
 		},
 		"8":{
@@ -494,7 +529,8 @@
 				"ru":"Больше",
 				"ro":"Mai mult",
 				"th":"เพิ่มเติม",
-				"tr":"Daha Fazla"
+				"tr":"Daha Fazla",
+				"ja":"もっと"
 			}
 		}
 	}
